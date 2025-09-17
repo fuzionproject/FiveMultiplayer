@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2019">
   <ItemGroup>
     <Filter Include="Common">
       <UniqueIdentifier>{69e3780e-9ece-4b81-a448-c6e6fd5f982c}</UniqueIdentifier>
